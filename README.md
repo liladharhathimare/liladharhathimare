@@ -1,5 +1,15 @@
-<h1 align="center">👋 Hi, I'm Liladhar Hathimare</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Liladhar%20Hathimare!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
+<!-- Intro -->
 <h3 align="center">💻 Flutter Developer | 📱 Mobile App Enthusiast | 🚀 Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=liladharhathimare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/liladharhathimare?label=Followers&style=social" alt="GitHub followers"/>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif">
 
@@ -15,36 +25,50 @@
 ---
 
 ### 🚀 Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Provider-%2300C7B7.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-%2300D09C.svg?style=for-the-badge" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma" height="45"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liladharhathimare&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liladharhathimare&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liladharhathimare&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liladharhathimare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liladharhathimare&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 📌 Featured Projects  
+- 🍜 [Anime App](https://github.com/liladharhathimare/Anime-App) – Anime browsing Flutter app  
+- 🎥 [Movie App](#) – Movie listing and details  
+- 🍔 [Food Delivery App](https://github.com/liladharhathimare/Food-App) – Firebase login & ordering system  
 
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/liladhar-hathimare-215978298/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:30px;"/>
   </a>
   <a href="mailto:lalithathimare@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px;"/>
   </a>
 </p>
 
 ---
 
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
+</p>
+
 ⭐ From [Liladhar Hathimare](https://github.com/liladharhathimare)
+
+
 
 
