@@ -1,74 +1,62 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Liladhar%20Hathimare!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
-</p>
-
-<!-- Intro -->
-<h3 align="center">💻 Flutter Developer | 📱 Mobile App Enthusiast | 🚀 Problem Solver</h3>
+<h1 align="center">📸 Instagram Clone</h1>
+<h3 align="center">A Flutter-based social media app inspired by Instagram 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liladharhathimare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/liladharhathimare?label=Followers&style=social" alt="GitHub followers"/>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif">
-
----
-
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on **Flutter Mobile Applications**  
-- 🌱 Learning **BLoC, Clean Architecture & Advanced Flutter Animations**  
-- 💬 Ask me about **Flutter, Firebase, State Management**  
-- 📫 Reach me at **lalithathimare@gmail.com**  
-- ⚡ Fun fact: *I love building pixel-perfect UI and exploring new tech*  
-
----
-
-### 🚀 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma" height="45"/>
+  <img src="https://img.shields.io/badge/Flutter-3.0-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-2.17-blue?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liladharhathimare&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+## ✨ Overview
+This **Instagram Clone** is a modern **Flutter** application replicating core features of the real Instagram app — but without Firebase in this version.  
+It’s built with **clean architecture, smooth animations**, and a **responsive design** to deliver a native-like social media experience.
 
+---
+
+## 🎯 Features
+- 🖼 **Image Posting** – Upload and display posts in a scrollable feed  
+- 📰 **Feed Page** – Instagram-style vertical feed with smooth scrolling  
+- ❤️ **Like System** – Double-tap or like button interaction  
+- 👤 **Profile Page** – View your own posts with profile details  
+- 🔍 **Explore Page** – Discover random/new posts  
+- 📱 **Responsive Design** – Optimized for Android & iOS  
+- ⚡ **Fast & Smooth** – Minimal load times with efficient state management  
+
+---
+
+## 🛠 Tech Stack
+| Technology | Purpose |
+|------------|---------|
+| **Flutter** | Cross-platform app development |
+| **Dart** | Core programming language |
+| **Local Storage / API** | Store and retrieve posts (No Firebase) |
+| **Provider / State Management** | Manage app data efficiently |
+| **Image Picker Package** | Select images from the device |
+| **HTTP Package** | API calls & data fetching |
+
+---
+
+## 📸 Screenshots  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liladharhathimare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liladharhathimare&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="screenshots/home.png" width="30%" alt="Home Screen" />
+  <img src="screenshots/profile.png" width="30%" alt="Profile Screen" />
+  <img src="screenshots/explore.png" width="30%" alt="Explore Screen" />
 </p>
 
 ---
 
-### 📌 Featured Projects  
-- 🍜 [Anime App](https://github.com/liladharhathimare/Anime-App) – Anime browsing Flutter app  
-- 🎥 [Movie App](#) – Movie listing and details  
-- 🍔 [Food Delivery App](https://github.com/liladharhathimare/Food-App) – Firebase login & ordering system  
+## 🚀 Getting Started
+```bash
+# Clone this repository
+git clone https://github.com/liladharhathimare/Instagram-clone.git
 
----
+# Navigate to the project directory
+cd Instagram-clone
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/liladhar-hathimare-215978298/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:30px;"/>
-  </a>
-  <a href="mailto:lalithathimare@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px;"/>
-  </a>
-</p>
+# Install dependencies
+flutter pub get
 
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
-</p>
-
-⭐ From [Liladhar Hathimare](https://github.com/liladharhathimare)
-
-
-
-
+# Run the app
+flutter run
