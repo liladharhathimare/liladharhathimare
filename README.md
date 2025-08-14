@@ -1,82 +1,73 @@
-<!-- Animated Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Liladhar%20Hathimare&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Liladhar%20Hathimare!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-<!-- Typing Effect Intro -->
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/liladharhathimare">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Flutter+Developer+%F0%9F%92%BB;Mobile+App+Enthusiast+%F0%9F%93%B1;Pixel-Perfect+UI+Builder+%F0%9F%8E%A8;Clean+Architecture+%26+BLoC+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00C9FF&center=true&vCenter=true&width=800&lines=💻+Flutter+Developer;📱+Mobile+App+Enthusiast;🚀+Problem+Solver;🎨+UI%2FUX+Lover" />
 </p>
 
-<!-- Badges -->
+<!-- Animated GIF -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liladharhathimare&label=PROFILE%20VIEWS&color=00C9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/liladharhathimare?label=FOLLOWERS&style=for-the-badge&color=92FE9D" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-0ea5e9?style=for-the-badge" />
-</p>
-
-<!-- Subheading + subtle animated divider (SVG gradient line) -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Flutter%20%7C%20Dart%20%7C%20Clean%20Architecture&width=1000&height=120" />
-</p>
-
-## 👨‍💻 About Me
-- 🔭 Building **Flutter mobile applications**
-- 🌱 Learning **BLoC, Clean Architecture & advanced animations**
-- 💬 Ask me about **Flutter, Firebase, State Management**
-- 📫 Reach me: **lalithathimare@gmail.com**
-- ✨ Fun: I love **pixel-perfect UI** & trying new tech
-
----
-
-## 🚀 Tech Stack
-<!-- Animated-ish SVG icons via skillicons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma&perline=8" />
-</p>
-
-<!-- Animated SVG skill ticker -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&multiline=true&width=850&height=80&lines=State+Management%3A+Provider%20%E2%80%A2%20Riverpod%20%E2%80%A2%20BLoC;Architecture%3A%20Clean%20Architecture%20%E2%80%A2%20MVVM%20%E2%80%A2%20Layered" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Animated Banner" width="600"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-| Project | What it is | Link |
-|---|---|---|
-| 🍜 **Anime App** | Browse anime, details, search | 🔗 [Repository](https://github.com/liladharhathimare/Anime-App) |
-| 🎥 **Movie App** | Movie listing + detail pages | 🔗 Coming soon |
-| 🍔 **Food Delivery App** | Firebase login & ordering | 🔗 [Repository](https://github.com/liladharhathimare/Food-App) |
+### 👨‍💻 About Me  
+- 🔭 Currently working on **Flutter Mobile Applications**  
+- 🌱 Learning **BLoC, Clean Architecture & Advanced Flutter Animations**  
+- 💬 Ask me about **Flutter, Firebase, State Management**  
+- 📫 Reach me at **lalithathimare@gmail.com**  
+- ⚡ Fun fact: *I love building pixel-perfect UI and exploring new tech*  
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Tech Stack  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=liladharhathimare&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liladharhathimare&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liladharhathimare&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma" height="50"/>
 </p>
 
 ---
 
-## 🌐 Connect
+### 📌 Featured Projects  
+| 🍜 Anime App | 🎥 Movie Zone | 🍔 Food Delivery App | 🛒 Cart Management | 📸 Instagram Clone |
+|-------------|--------------|----------------------|--------------------|--------------------|
+| [🔗 View Repo](https://github.com/liladharhathimare/Anime-App) | [🔗 View Repo](https://github.com/liladharhathimare/movie_zone) | [🔗 View Repo](https://github.com/liladharhathimare/Food-App) | [🔗 View Repo](https://github.com/liladharhathimare/Cart-Management-App) | [🔗 View Repo](https://github.com/liladharhathimare/Instagram-clone) |
+| Flutter app to browse & explore anime | Movie listing & details app | Firebase login & ordering system | Product cart with state management | Social media UI clone |
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/liladhar-hathimare-215978298/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liladharhathimare&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liladharhathimare&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liladharhathimare&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/liladhar-hathimare-215978298/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lalithathimare@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- Footer Wave -->
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
 </p>
+
+⭐ From [Liladhar Hathimare](https://github.com/liladharhathimare)
 
 
